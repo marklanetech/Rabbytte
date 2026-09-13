@@ -1,6 +1,6 @@
 {
   "name": "rabbytte-mcp",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "MCP server for Rabbytte — search a human-curated web index from any AI assistant",
   "type": "module",
   "bin": {
